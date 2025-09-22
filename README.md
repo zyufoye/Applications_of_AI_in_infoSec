@@ -1,0 +1,2 @@
+# Applications_of_AI_in_infoSec
+人工智能在AI领域的一些应用，分别是HTB Academy及其他学习平台的一些实践。
